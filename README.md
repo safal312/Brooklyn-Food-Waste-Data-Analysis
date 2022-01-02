@@ -4,3 +4,7 @@ This project specifically focuses on the various factors related to food being d
 - Label Language
 - Retailer Type & Food Type
 - Organic Food Type
+
+This project incorporates a linear regression model to predict how many days before or after the expiration date an item is thrown out depending on different factors.
+
+Note: The project was originally posted on Kaggle and the data was made publicly available. Please check out the description to see the project on Kaggle.
